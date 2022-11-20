@@ -1,0 +1,5 @@
+C:\Users\tanne\source\repos\icoRGB\EmmyRGB\obj\Debug\EmmyRGB.csproj.CoreCompileInputs.cache
+C:\Users\tanne\source\repos\icoRGB\EmmyRGB\bin\Debug\EmmyRGB.exe
+C:\Users\tanne\source\repos\icoRGB\EmmyRGB\bin\Debug\EmmyRGB.pdb
+C:\Users\tanne\source\repos\icoRGB\EmmyRGB\obj\Debug\EmmyRGB.exe
+C:\Users\tanne\source\repos\icoRGB\EmmyRGB\obj\Debug\EmmyRGB.pdb
